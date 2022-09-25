@@ -8,6 +8,13 @@ public class Main {
 		msw.setPass(pass);
 		System.out.println("OLD PASS: " +oldPass);
 		System.out.println(msw.toString());
+		/*
+		 *OUTPUT IS:
+		 
+		 OLD PASS: FerHaYt65/*==?
+		 NEW PASS: &9f(U9hFEO:--O
+		 
+		 * */
 	}
 
 }
